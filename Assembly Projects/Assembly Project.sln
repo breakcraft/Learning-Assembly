@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Pair Swap", "Array Pa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Gap Sum", "Array Gap Sum\Array Gap Sum.vcxproj", "{05746E3F-E2E0-46BF-A196-CC1930C23AD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse String", "Reverse String\Reverse String.vcxproj", "{E7C7C930-34DD-4AD6-A945-80A1EBD58897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -99,6 +101,10 @@ Global
 		{05746E3F-E2E0-46BF-A196-CC1930C23AD0}.Debug|Win32.Build.0 = Debug|Win32
 		{05746E3F-E2E0-46BF-A196-CC1930C23AD0}.Release|Win32.ActiveCfg = Release|Win32
 		{05746E3F-E2E0-46BF-A196-CC1930C23AD0}.Release|Win32.Build.0 = Release|Win32
+		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Debug|Win32.Build.0 = Debug|Win32
+		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Release|Win32.ActiveCfg = Release|Win32
+		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
