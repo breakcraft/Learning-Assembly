@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Gap Sum", "Array Gap 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse String", "Reverse String\Reverse String.vcxproj", "{E7C7C930-34DD-4AD6-A945-80A1EBD58897}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Sum Procedure", "Array Sum Procedure\Array Sum Procedure.vcxproj", "{B3136C91-B30B-4EAA-8284-D26945102C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -105,6 +107,10 @@ Global
 		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Debug|Win32.Build.0 = Debug|Win32
 		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Release|Win32.ActiveCfg = Release|Win32
 		{E7C7C930-34DD-4AD6-A945-80A1EBD58897}.Release|Win32.Build.0 = Release|Win32
+		{B3136C91-B30B-4EAA-8284-D26945102C1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3136C91-B30B-4EAA-8284-D26945102C1E}.Debug|Win32.Build.0 = Debug|Win32
+		{B3136C91-B30B-4EAA-8284-D26945102C1E}.Release|Win32.ActiveCfg = Release|Win32
+		{B3136C91-B30B-4EAA-8284-D26945102C1E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
