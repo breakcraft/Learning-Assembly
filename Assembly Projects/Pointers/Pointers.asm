@@ -11,8 +11,8 @@ PDWORD	TYPEDEF PTR DWORD
 
 .data
 arrayB	BYTE	1h, 2h, 3h
-arrayW	WORD	10h, 20h, 30h
-arrayD	DWORD	101h, 202h, 303h
+arrayW	WORD	0AAh, 0BBBEh, 0CCh
+arrayD	DWORD	0DDDh, 0EEEEAAAAh, 10203040h
 
 ptrArrayB	PBYTE	arrayB
 ptrArrayW	PWORD	arrayW
