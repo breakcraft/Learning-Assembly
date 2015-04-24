@@ -6,6 +6,7 @@
 ExitProcess PROTO, dwExitCode:DWORD
 
 .data
+; Array must have an even number of elements
 arrayB BYTE 10h, 20h, 30h, 40h, 50h, 60h, 70h, 80h
 
 .code
