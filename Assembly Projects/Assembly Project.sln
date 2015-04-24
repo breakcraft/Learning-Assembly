@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add Two", "Assembly Project\Assembly Project.vcxproj", "{EB7FE5F1-3412-441C-B2BA-B3AD8007BE17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add Variables", "Add Variables\Add Variables.vcxproj", "{22774717-BAF3-44BF-9444-A91A16410B6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integer Expression Calculation", "Integer Expression Calculation\Integer Expression Calculation.vcxproj", "{D2C51C63-708E-4F70-9A3E-429E52363474}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memory Swap", "Memory Swap\Memory Swap.vcxproj", "{C0DFB78F-01D7-4EEB-AEDE-A3E729E8F838}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array", "Array\Array.vcxproj", "{11C2F0AC-6D8F-40AB-A146-950F7F639DF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mov Variations", "Mov Variations\Mov Variations.vcxproj", "{EEC1566E-6978-45D1-8591-A8445D4038B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Increment and Decrement", "Increment and Decrement\Increment and Decrement.vcxproj", "{16CF7BFF-73D0-480F-97F9-25E399746447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7FE5F1-3412-441C-B2BA-B3AD8007BE17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB7FE5F1-3412-441C-B2BA-B3AD8007BE17}.Debug|Win32.Build.0 = Debug|Win32
+		{EB7FE5F1-3412-441C-B2BA-B3AD8007BE17}.Release|Win32.ActiveCfg = Release|Win32
+		{EB7FE5F1-3412-441C-B2BA-B3AD8007BE17}.Release|Win32.Build.0 = Release|Win32
+		{22774717-BAF3-44BF-9444-A91A16410B6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22774717-BAF3-44BF-9444-A91A16410B6E}.Debug|Win32.Build.0 = Debug|Win32
+		{22774717-BAF3-44BF-9444-A91A16410B6E}.Release|Win32.ActiveCfg = Release|Win32
+		{22774717-BAF3-44BF-9444-A91A16410B6E}.Release|Win32.Build.0 = Release|Win32
+		{D2C51C63-708E-4F70-9A3E-429E52363474}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2C51C63-708E-4F70-9A3E-429E52363474}.Debug|Win32.Build.0 = Debug|Win32
+		{D2C51C63-708E-4F70-9A3E-429E52363474}.Release|Win32.ActiveCfg = Release|Win32
+		{D2C51C63-708E-4F70-9A3E-429E52363474}.Release|Win32.Build.0 = Release|Win32
+		{C0DFB78F-01D7-4EEB-AEDE-A3E729E8F838}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0DFB78F-01D7-4EEB-AEDE-A3E729E8F838}.Debug|Win32.Build.0 = Debug|Win32
+		{C0DFB78F-01D7-4EEB-AEDE-A3E729E8F838}.Release|Win32.ActiveCfg = Release|Win32
+		{C0DFB78F-01D7-4EEB-AEDE-A3E729E8F838}.Release|Win32.Build.0 = Release|Win32
+		{11C2F0AC-6D8F-40AB-A146-950F7F639DF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11C2F0AC-6D8F-40AB-A146-950F7F639DF1}.Debug|Win32.Build.0 = Debug|Win32
+		{11C2F0AC-6D8F-40AB-A146-950F7F639DF1}.Release|Win32.ActiveCfg = Release|Win32
+		{11C2F0AC-6D8F-40AB-A146-950F7F639DF1}.Release|Win32.Build.0 = Release|Win32
+		{EEC1566E-6978-45D1-8591-A8445D4038B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEC1566E-6978-45D1-8591-A8445D4038B6}.Debug|Win32.Build.0 = Debug|Win32
+		{EEC1566E-6978-45D1-8591-A8445D4038B6}.Release|Win32.ActiveCfg = Release|Win32
+		{EEC1566E-6978-45D1-8591-A8445D4038B6}.Release|Win32.Build.0 = Release|Win32
+		{16CF7BFF-73D0-480F-97F9-25E399746447}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16CF7BFF-73D0-480F-97F9-25E399746447}.Debug|Win32.Build.0 = Debug|Win32
+		{16CF7BFF-73D0-480F-97F9-25E399746447}.Release|Win32.ActiveCfg = Release|Win32
+		{16CF7BFF-73D0-480F-97F9-25E399746447}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
