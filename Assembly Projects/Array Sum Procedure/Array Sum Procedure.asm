@@ -20,11 +20,12 @@ main PROC
 	INVOKE ExitProcess, 0
 main ENDP
 
-ArraySum PROC
+ArraySum PROC USES esi ecx
 ; Array location in esi and array length in ecx
 ; Input array must be DWORD array
-	push esi	; Save esi
-	push ecx	; Save ecx
+	; Replaced by PROC USES
+	;push esi	; Save esi
+	;push ecx	; Save ecx
 
 	mov eax, 0	; Accumulator for sum
 
@@ -33,8 +34,9 @@ L1:
 	add esi, TYPE DWORD	; Reason for DWORD constraint on array
 	loop L1
 
-	pop esi		; Restore esi
-	pop ecx		; Restore ecx
+	; Replaced by PROC USES
+	;pop esi		; Restore esi
+	;pop ecx		; Restore ecx
 
 	ret
 ArraySum ENDP
