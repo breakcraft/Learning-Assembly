@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Sum Procedure", "Arra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditional Array Sum", "Conditional Array Sum\Conditional Array Sum.vcxproj", "{3365CB11-397E-4478-AE44-1F25078A09A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Table Driven Selection", "Table Driven Selection\Table Driven Selection.vcxproj", "{5226DC73-2272-444C-B645-49F36C1C40CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -117,6 +119,10 @@ Global
 		{3365CB11-397E-4478-AE44-1F25078A09A7}.Debug|Win32.Build.0 = Debug|Win32
 		{3365CB11-397E-4478-AE44-1F25078A09A7}.Release|Win32.ActiveCfg = Release|Win32
 		{3365CB11-397E-4478-AE44-1F25078A09A7}.Release|Win32.Build.0 = Release|Win32
+		{5226DC73-2272-444C-B645-49F36C1C40CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5226DC73-2272-444C-B645-49F36C1C40CD}.Debug|Win32.Build.0 = Debug|Win32
+		{5226DC73-2272-444C-B645-49F36C1C40CD}.Release|Win32.ActiveCfg = Release|Win32
+		{5226DC73-2272-444C-B645-49F36C1C40CD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
