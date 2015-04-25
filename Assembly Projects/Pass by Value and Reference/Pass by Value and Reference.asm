@@ -35,8 +35,8 @@ local1 EQU DWORD PTR [ebp - 4]
 local2 EQU DWORD PTR [ebp - 8]
 ; Return value stored in eax
 AddVal PROC
-	push ebp					; Save base pointer
-	mov ebp, esp				; Set base pointer to base of stack frame
+	push ebp					; Save base pointer to stack frame 
+	mov ebp, esp				; Set base pointer to stack frame
 ; Use explicit stack parameters [ebp + i]
 ; NOTE: i = 0 is now saved ebp value and i = 4 is return address
 ;	mov eax, [ebp + 8]			; Get var1 value pushed onto stack
@@ -56,7 +56,7 @@ AddVal PROC
 	add eax, local1
 	add eax, local2
 	mov esp, ebp				; Remove local variables from stack
-	pop ebp						; Restore extended stack frame pointer
+	pop ebp						; Restore abse pointer to stack frame pointer
 	ret ;8 <-- stdcall calling convention in place of "add esp, 8" after return
 AddVal ENDP
 
