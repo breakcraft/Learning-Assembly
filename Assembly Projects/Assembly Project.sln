@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursion Stack Overflow", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum i from 1 to n", "Sum i from 1 to n\Sum i from 1 to n.vcxproj", "{1FFE2171-506D-487C-9275-5B89B82526BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursive Factorial", "Recursive Factorial\Recursive Factorial.vcxproj", "{20069AAF-FFFE-4166-916A-466E047D3BC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -147,6 +149,10 @@ Global
 		{1FFE2171-506D-487C-9275-5B89B82526BB}.Debug|Win32.Build.0 = Debug|Win32
 		{1FFE2171-506D-487C-9275-5B89B82526BB}.Release|Win32.ActiveCfg = Release|Win32
 		{1FFE2171-506D-487C-9275-5B89B82526BB}.Release|Win32.Build.0 = Release|Win32
+		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Debug|Win32.Build.0 = Debug|Win32
+		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Release|Win32.ActiveCfg = Release|Win32
+		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
