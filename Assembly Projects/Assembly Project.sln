@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum i from 1 to n", "Sum i 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursive Factorial", "Recursive Factorial\Recursive Factorial.vcxproj", "{20069AAF-FFFE-4166-916A-466E047D3BC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiModuleArraySum", "MultiModuleArraySum\MultiModuleArraySum.vcxproj", "{A5EED6DF-3B04-4C26-B2AB-2A6909CD10EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -153,6 +155,10 @@ Global
 		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Debug|Win32.Build.0 = Debug|Win32
 		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Release|Win32.ActiveCfg = Release|Win32
 		{20069AAF-FFFE-4166-916A-466E047D3BC0}.Release|Win32.Build.0 = Release|Win32
+		{A5EED6DF-3B04-4C26-B2AB-2A6909CD10EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5EED6DF-3B04-4C26-B2AB-2A6909CD10EC}.Debug|Win32.Build.0 = Debug|Win32
+		{A5EED6DF-3B04-4C26-B2AB-2A6909CD10EC}.Release|Win32.ActiveCfg = Release|Win32
+		{A5EED6DF-3B04-4C26-B2AB-2A6909CD10EC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
