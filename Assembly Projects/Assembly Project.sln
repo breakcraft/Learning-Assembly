@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LEA Instruction", "LEA Inst
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursion Stack Overflow", "Recursion Stack Overflow\Recursion Stack Overflow.vcxproj", "{A54D11B1-FA85-4D0B-ADDB-F38C02BDDAD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum i from 1 to n", "Sum i from 1 to n\Sum i from 1 to n.vcxproj", "{1FFE2171-506D-487C-9275-5B89B82526BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -141,6 +143,10 @@ Global
 		{A54D11B1-FA85-4D0B-ADDB-F38C02BDDAD0}.Debug|Win32.Build.0 = Debug|Win32
 		{A54D11B1-FA85-4D0B-ADDB-F38C02BDDAD0}.Release|Win32.ActiveCfg = Release|Win32
 		{A54D11B1-FA85-4D0B-ADDB-F38C02BDDAD0}.Release|Win32.Build.0 = Release|Win32
+		{1FFE2171-506D-487C-9275-5B89B82526BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FFE2171-506D-487C-9275-5B89B82526BB}.Debug|Win32.Build.0 = Debug|Win32
+		{1FFE2171-506D-487C-9275-5B89B82526BB}.Release|Win32.ActiveCfg = Release|Win32
+		{1FFE2171-506D-487C-9275-5B89B82526BB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
