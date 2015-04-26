@@ -30,7 +30,7 @@ main PROC
 	jb L1						; Jump if source is greater than destination
 	mov eax, [edi - 4]			; Destination is smaller or both equal
 	jmp L2
-L1:	
+L1:								; Reminder - can't set bp on line w/ label
 	mov eax, [esi - 4]			; Source is smaller
 L2:
 	mov lesser, eax
