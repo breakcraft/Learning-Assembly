@@ -20,8 +20,8 @@ main PROC
 	dec edi						; Decrement to get index of value
 ; Decided to use the STOS_ example here to store if found
 ;	mov al, [edi]				; Already have this value in al due to scan
-	neg ecx
-	add ecx, LENGTHOF array		; Only going to store up to the found index 
+	neg ecx						; Only going to store up to the found index 
+	add ecx, LENGTHOF array		
 	mov edi, OFFSET array
 	rep stosb
 L1:
