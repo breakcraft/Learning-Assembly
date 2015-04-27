@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Scan Store", "Array S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Load Store", "Array Load Store\Array Load Store.vcxproj", "{AC92EC52-534F-4D46-8323-41F259BD22A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String Procedures", "String Procedures\String Procedures.vcxproj", "{7274608B-0DAE-4FAB-8526-5021FC511C64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -183,6 +185,10 @@ Global
 		{AC92EC52-534F-4D46-8323-41F259BD22A2}.Debug|Win32.Build.0 = Debug|Win32
 		{AC92EC52-534F-4D46-8323-41F259BD22A2}.Release|Win32.ActiveCfg = Release|Win32
 		{AC92EC52-534F-4D46-8323-41F259BD22A2}.Release|Win32.Build.0 = Release|Win32
+		{7274608B-0DAE-4FAB-8526-5021FC511C64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7274608B-0DAE-4FAB-8526-5021FC511C64}.Debug|Win32.Build.0 = Debug|Win32
+		{7274608B-0DAE-4FAB-8526-5021FC511C64}.Release|Win32.ActiveCfg = Release|Win32
+		{7274608B-0DAE-4FAB-8526-5021FC511C64}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
